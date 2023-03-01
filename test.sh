@@ -1,4 +1,4 @@
 mkdir abc
 cd abc
-printf "welcome"
+printf "welcome to abhi trainings "
 
